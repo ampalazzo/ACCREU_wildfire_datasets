@@ -8,9 +8,8 @@ The dataset was produced by DTU in the context of the ACCREU project using the F
 This dataset contains burned area data from wildfire spread simulations conducted using the ForeFire model. The data cover three European regions (South, Central, and North) under multiple climate datasets and time periods: ERA5-Land reanalysis for 2008–2019, ClimEx2 historical simulations for 1991–2010, and ClimEx2 future projections under SSP2 for 2041–2060 and 2081–2100. The outputs are provided as ESRI Shapefiles containing simulated burned-area polygons, including the date of each fire event and total burned area in hectares. The effective spatial resolution is approximately 50 m, and all spatial data use the ETRS89 / LAEA Europe coordinate reference system (EPSG:3035). The dataset was produced by DTU in the context of the ACCREU project.
 
 ## Citation
-<ADD PREFERRED CITATION / ZENODO DOI ONCE AVAILABLE>
 
-> Soto Martin, Jorge; Meuriot, Ophélie; and  Drews, Martin. (2025). *Burned Area Data from Fire Spread Simulation (ForeFire)*. Zenodo. https://doi.org/<DOI>
+> Soto Martin, Jorge; Meuriot, Ophélie; & Drews, Martin. (2026). *Simulated Wildfire Burned Areas across European Regions under Historical and Future Climate Conditions (ForeFire)* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22809595
 
 ## License
 - **Data:**   This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
